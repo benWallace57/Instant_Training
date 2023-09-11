@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+plotly
+shap
+numpy
+nbformat
+matplotlib
+Jinja2
